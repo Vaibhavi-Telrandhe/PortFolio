@@ -10,8 +10,8 @@ export const projectsData = [
       <Server key="node" className="w-5 h-5 text-green-400" />,
       <Database key="mongo" className="w-5 h-5 text-emerald-500" />,
     ],
-    github: "https://github.com/your-username/job-portal",
-    live: "https://your-job-portal-live-link.com",
+    // github: "https://github.com/your-username/job-portal",
+    // live: "https://your-job-portal-live-link.com",
     image:
       "https://plus.unsplash.com/premium_photo-1661328090120-a6ef40841abe?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
@@ -25,8 +25,8 @@ export const projectsData = [
       <Globe key="mui" className="w-5 h-5 text-indigo-400" />,
       <Server key="socket" className="w-5 h-5 text-pink-400" />,
     ],
-    github: "https://github.com",
-    live: "https://example.com",
+    // github: "https://github.com",
+    // live: "https://example.com",
     image:
       "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=400&h=250&fit=crop",
   },
@@ -40,8 +40,8 @@ export const projectsData = [
       <Server key="api" className="w-5 h-5 text-blue-400" />,
       <Database key="tailwind" className="w-5 h-5 text-teal-400" />,
     ],
-    github: "https://github.com",
-    live: "https://example.com",
+    // github: "https://github.com",
+    // live: "https://example.com",
     image:
       "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=400&h=250&fit=crop",
   },
